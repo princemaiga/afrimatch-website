@@ -1,0 +1,27 @@
+{
+  "name": "AfriMatch",
+  "short_name": "AfriMatch",
+  "description": "Africa's Community & Professional Network — Connect. Grow. Belong.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1e",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "business", "networking"],
+  "lang": "en",
+  "dir": "ltr"
+}
